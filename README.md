@@ -1,2 +1,2 @@
 # To-Do-List-app-
-Flask Project
+It is a flask to do list end to end project
